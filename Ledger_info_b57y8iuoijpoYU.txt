@@ -1,0 +1,27 @@
+
++ ------------- New Ledger Info --------------+
++ ------------------------------------------+
++ Result Information
+| Full name : Chris B
+| Email address : test@test.com
+| Phone number : 07788456837
+| Existing Account? : No
++ ------------------------------------------+
+
++ ------------- New Ledger Info --------------+
++ ------------------------------------------+
++ Result Information
+| Full name : abcabc
+| Email address : christopherbonnick2803@gmail.com
+| Phone number : 0237623
+| Existing Account? : No
++ ------------------------------------------+
+
++ ------------- New Ledger Info --------------+
++ ------------------------------------------+
++ Result Information
+| Full name : ahahaha
+| Email address : ahahahaha@ahaha.com
+| Phone number : ahahaha
+| Existing Account? : Yes
++ ------------------------------------------+
